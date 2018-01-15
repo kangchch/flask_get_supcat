@@ -1,0 +1,12 @@
+*.o
+*.pyc
+a.out
+HcSegData/*
+*.log*
+_supcat.so
+supcat.py
+supcat_wrap.cpp
+test
+!.gitignore
+*.csv
+*.txt
